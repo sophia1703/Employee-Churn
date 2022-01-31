@@ -14,3 +14,5 @@ Project Link :    https://gallery.cortanaintelligence.com/Experiment/Employee-Le
 I've implemented this experiment using Azure Machine Learning Studio (Classic).
 
 #Algotics #MachineLearning #MicrosoftMachineLearning #AzureML #ML #AzureDataScience
+
+![churn projecr](https://user-images.githubusercontent.com/66632417/151772107-60d48785-2fb1-4ac7-b781-82c5cbf78d01.png)
