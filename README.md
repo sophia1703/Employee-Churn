@@ -3,7 +3,7 @@ Machine Learning Experiment for predicting employee's Churn
 
 Project Link : https://gallery.cortanaintelligence.com/Experiment/Employee-Leaving-prediction
 
-Problem Statement :  Using two-class Neural Network predicts the churn of the employees.
+Problem Statement :  Using two-class Logistic Regression prediction of the Employee's churn is done.
 
 Project Description :
    
@@ -13,4 +13,4 @@ Project Link :    https://gallery.cortanaintelligence.com/Experiment/Employee-Le
 
 I've implemented this experiment using Azure Machine Learning Studio (Classic).
 
-                                                                   Thank you.
+#Algotics #MachineLearning #MicrosoftMachineLearning #AzureML #ML #AzureDataScience
